@@ -1,0 +1,11 @@
+# Archivos y carpetas generadas por Gradle
+.gradle/
+build/
+bin/
+
+# Configuraciones locales de Visual Studio Code
+.vscode/
+
+# Archivos ocultos del sistema operativo (recomendado)
+.DS_Store
+Thumbs.db
